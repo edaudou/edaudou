@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![edaudou's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edaudou&theme=blue-green)
+[![edaudou's GitHub stats](https://github-readme-stats.vercel.app/api?username=edaudou)](https://github.com/anuraghazra/github-readme-stats)
