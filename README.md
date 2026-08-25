@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edaudou&show_icons=true&theme=radial)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=edaudou&layout=compact&theme=radial)
+![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=edaudou&theme=dark)
