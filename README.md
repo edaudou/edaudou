@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edaudou&show_icons=true&theme=radial)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=edaudou&layout=compact&theme=radial)
-![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=edaudou&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
