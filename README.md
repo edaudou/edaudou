@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![edaudou's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edaudou&theme=blue-green)
-[![edaudou's GitHub stats](https://github-readme-stats.vercel.app/api?username=edaudou)](https://github.com/anuraghazra/github-readme-stats)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edaudou&show_icons=true&theme=radial)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=edaudou&layout=compact&theme=radial)
