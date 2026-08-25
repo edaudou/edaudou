@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edaudou&show_icons=true&theme=radial" alt="Estadísticas de edaudou" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaudou&layout=compact&theme=radial" alt="Lenguajes de edaudou" />
+</p>
